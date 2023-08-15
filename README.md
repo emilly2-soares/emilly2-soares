@@ -12,7 +12,7 @@
 - 👀 I’m interested in: <br/> <div> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
                                                                                                                               <br/>                                                
-<a href="https://github.com/emilly-soares">
+<a href="https://github.com/emilly2-soares">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilly-soares&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <!---
